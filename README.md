@@ -139,7 +139,7 @@ If you use this codebase in your research or project, please cite:
   title = {equi-panorama: A lightweight equirectangular panorama viewer for the web},
   author = {Drift Johnson},
   year = {2025},
-  url = {https://github.com/MushroomFleet/equi-panorama},
+  url = {https://github.com/MushroomFleet/equi-panorama-jsx},
   version = {1.0.0}
 }
 ```
