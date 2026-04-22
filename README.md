@@ -2,6 +2,10 @@
 
 > A tiny, dependency-light equirectangular panorama viewer for the web — a drop-in React component and a zero-build HTML demo.
 
+> LIVE DEMO [https://scuffedepoch.com/equi-panorama/](https://scuffedepoch.com/equi-panorama/)
+
+Tip: Use GPT Image 2 and generate an image which is an "equirectangular panorama" in your prompt.
+
 ![Three.js](https://img.shields.io/badge/three.js-r128+-000000?logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react&logoColor=black)
 ![License](https://img.shields.io/badge/license-MIT-blue)
